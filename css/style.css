@@ -1,0 +1,25 @@
+h1{
+display: inline-block;
+    color: red;
+    margin: 0;
+    width: 46px;
+    height: 47px;
+    text-align: center;
+    line-height: 47px;
+}
+i{
+}
+h2{
+    font-size: 3rem;
+    font-family: sans-serif;
+}
+
+h4{
+    display: inline-block;
+    color: red;
+    text-align: center;
+    margin: 0;
+    height: 18px;
+    width: 18px;
+    line-height: 18px;
+}
